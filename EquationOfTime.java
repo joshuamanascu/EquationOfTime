@@ -5,10 +5,9 @@ import java.util.Scanner;
  * calculate the equation of time for a particular time of year. Alternatively,
  * it displays the equation for an entire year.
  *
- * @author Joshua Manascu and Philippe Gabriel
  * @version 2018-05-22
  */
-public class EquationOfTime_Final
+public class EquationOfTime
 {
 	public static final double epsilon = Math.toRadians(23.4392); // Obliquity of the Ecliptic
 	public static final double TwoPI = 2*Math.PI;
